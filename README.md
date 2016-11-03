@@ -7,9 +7,9 @@ Source code for a Movie Trailer website.
 # DESCRIPTION
 
  -fILES
-  main.py  -- contains movie objects like bb ki vines , shivayy etc.
+  file.py  -- contains movie objects like bb ki vines , shivayy etc.
     
-  media.py -- contains movie class which initializes the argument passed from main.py file using __init__ constructor
+  media.py -- contains movie class which initializes the argument passed from file.py file using __init__ constructor
                 Also it open the movie trailer link provided by the instance ..
                 
   fresh_tomatoes.py -- The main file which does all the messey things from generating html file to displaying instance variables like                             title, descriptions, poster etc.
@@ -27,7 +27,7 @@ Source code for a Movie Trailer website.
  
  -Once you have installed python please execute the following from Command Line.
 
-           python -t main.py
+           python -t file.py
  - idle users have to open the file in idle and then use the run command from idle tools..
  
-   This will open your web browser with the movies specified in main.py
+   This will open your web browser with the movies specified in file.py
