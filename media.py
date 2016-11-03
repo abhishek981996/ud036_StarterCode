@@ -7,7 +7,7 @@ class Movie():
 		''' __init function is a initializer and it is automatically called when instances of class movie are created
 		return : this function doesnt return anything simply create space of variable for parameters
 		parameters used:
-		 movie_titles    = (string) initializes titles of the movie recieved from the argument
+		 movie_titles    = (string) initializes titles of the movie recieved from the argument passed 
 		 movie_storyline = (string) initializes storyline
 		 poster_image    = (string) link of the image..
 		 trailer_youtube = (string) movie trailer link  '''
